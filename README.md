@@ -1,4 +1,4 @@
-# George A. Tollefson (He/Him)
+# George A. Tollefson
 ### PhD Candidate in Pathobiology at Brown University | Bioinformatics Data Analyst & Developer
 
 I am a bioinformatics data analyst and developer with 9 years of experience spanning published research software development and genomics sequence analysis pipelines. My expertise bridges high-throughput multiomics data generation, tool development, and analysis with a deep expertise in human and eukaryotic infectious pathogen biology.
