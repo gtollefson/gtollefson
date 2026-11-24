@@ -1,7 +1,7 @@
 # George A. Tollefson
 ### PhD Candidate in Pathobiology at Brown University | Bioinformatics Data Analyst & Developer
 
-I am a bioinformatics data analyst and developer with 9 years of experience applying multi-omics approaches to spanning published research software development and multi-omics sequence analysis pipeline development. My expertise bridges high-throughput multi-omics data generation, bioinformatics tool development, and innovative analytical approaches informed by biology to answer key questions affecting human health. 
+I am a bioinformatics data analyst and developer with 9 years of experience applying multi-omics approaches to projects spanning published research software development and multi-omics sequence analysis pipeline development. My expertise bridges high-throughput multi-omics data generation, bioinformatics tool development, and innovative analytical approaches informed by biology to answer key questions affecting human health. 
 
 Currently, I am an NIH Kirschstein-NRSA (F31) funded 5th-year doctoral candidate in **Dr. Jeff Bailey's Lab at Brown University**, where I study the evolution of drug-resistant malaria parasites throughout East Africa. I develop innovative high-throughput genomics sequencing assays with accompanying automated sequence analysis pipelines to support global malaria surveillance and combat antimalarial resistance.
 
